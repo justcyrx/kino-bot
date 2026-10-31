@@ -3,7 +3,7 @@ import os
 from aiohttp import web
 from aiogram import Bot, Dispatcher
 
-TOKEN = "9287007550:AAE_O8mQHSBMJcTSC1oNcEl2wodjjeeEDM4"
+TOKEN = "9287007550:AAHhlnU-StZpwJPOhp0_7xN3ZRRPjjp43fQ"
 CHANNEL_ID = "4230165527"
 
 bot = Bot(token=TOKEN)
